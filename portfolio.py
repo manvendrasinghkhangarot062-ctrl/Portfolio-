@@ -1,4 +1,4 @@
-import strimlit as st
+import streamlit as st
 st.set_page_config(page_title ="MANVENDRA's Portfolio")
 st.title("MANDATA MANVENDRA SINGH")
 st.subheader("QA Engineer/Developer")
