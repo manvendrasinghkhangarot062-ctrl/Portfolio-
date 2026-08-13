@@ -4,11 +4,11 @@ st.title("MANDATA MANVENDRA SINGH")
 st.subheader("QA Engineer/Developer")
 st.write(""""welcome to my portfolio
 I am corrently working at Genpact and learning
--python
--streamlit
--git and github
--QA (software Testing)
--web developing""")
+-"python",
+-"streamlit",
+-"git and github",
+-"QA (software Testing)"
+-"web developing""")
 
 st.header("SKILLS")
 
